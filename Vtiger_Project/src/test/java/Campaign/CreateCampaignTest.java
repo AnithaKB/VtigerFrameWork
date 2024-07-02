@@ -70,6 +70,7 @@ public class CreateCampaignTest extends BaseClass{
 		SoftAssert soft=new SoftAssert();
 		soft.assertEquals(actData, campaignName);
 		soft.assertAll();
+		//Edit and pulled
 		
 	}
 
